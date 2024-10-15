@@ -27,6 +27,7 @@ Este proyecto tiene como objetivo medir la temperatura utilizando termistores NT
    ```bash
    pip install nidaqmx
    pip install matplotlib
+
 3. Asegura de tener instalado NI-DAQ mx (2024 Q4) (Drivers de la tarjeta) en: https://www.ni.com/es/support/downloads/drivers/download.ni-daq-mx.html#549669
 
 ## Uso y Requisitos
