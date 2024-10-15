@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo medir la temperatura utilizando termistores NT
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 ### 1.1 O Descarga el archivo zip y descomprimelo para ejecutarlo localmente
 ### 2. Asegura de tener instalado Python 3.0 en adelante
-Disponible en: https://www.python.org/downloads/
+Disponible en: https://www.python.org/downloads/ ```
 2.1 Asegura de tener instaladas las librerias adecuadas como nidaqmx y matplotlib
    ```bash
    pip install nidaqmx
