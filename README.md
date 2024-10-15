@@ -18,16 +18,16 @@ Este proyecto tiene como objetivo medir la temperatura utilizando termistores NT
 - Configuración flexible para múltiples sensores.
 
 ## Instalación y Requisitos
-###1. Clona este repositorio:
+### 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-### 1.1. O Descarga el archivo zip y descomprimelo para ejecutarlo localmente
+### 1.1 O Descarga el archivo zip y descomprimelo para ejecutarlo localmente
 ### 2. Asegura de tener instalado Python 3.0 en adelante
 Disponible en: https://www.python.org/downloads/
 2.1 Asegura de tener instaladas las librerias adecuadas como nidaqmx y matplotlib
    ```bash
-pip install nidaqmx
-pip install matplotlib
+   pip install nidaqmx
+   pip install matplotlib
 
 3. Asegura de tener instalado NI-DAQ mx (2024 Q4) (Drivers de la tarjeta) en: https://www.ni.com/es/support/downloads/drivers/download.ni-daq-mx.html#549669
 
